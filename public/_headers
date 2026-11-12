@@ -1,0 +1,8 @@
+# Netlify (and Cloudflare Pages) read this file from the published folder.
+# Media never changes under the same name unless re-exported, so let browsers
+# keep it for a month; Next's hashed bundles can be cached forever.
+/media/*
+  Cache-Control: public, max-age=2592000
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable

@@ -1,0 +1,5 @@
+# Vercel builds the site itself (npm run build); local build output and the
+# media tools are not needed there.
+/out
+/.next
+/tools

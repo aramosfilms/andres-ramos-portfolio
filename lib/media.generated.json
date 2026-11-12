@@ -1,0 +1,868 @@
+{
+  "photos": [
+    {
+      "id": "dsc03369",
+      "set": "champions",
+      "alt": "Celebración bajo los focos de la Champions League",
+      "w": 5645,
+      "h": 4234,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#4d3234"
+    },
+    {
+      "id": "dsc03814",
+      "set": "champions",
+      "alt": "Duelo en la banda, jugador de blanco remata ante un defensa de rojo",
+      "w": 5101,
+      "h": 3826,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#2f3c33"
+    },
+    {
+      "id": "dsc02945",
+      "set": "champions",
+      "alt": "Saludo entre los dos equipos antes del partido",
+      "w": 4723,
+      "h": 3542,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#504a46"
+    },
+    {
+      "id": "dsc02889",
+      "set": "champions",
+      "alt": "Jugadores con los niños de la salida al campo",
+      "w": 3445,
+      "h": 2584,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#573439"
+    },
+    {
+      "id": "dsc02980",
+      "set": "champions",
+      "alt": "Foto de equipo antes del saque inicial",
+      "w": 6034,
+      "h": 3396,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#443730"
+    },
+    {
+      "id": "dsc02908",
+      "set": "champions",
+      "alt": "Banquillo en fila con los niños durante el himno",
+      "w": 2869,
+      "h": 2152,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#6f6761"
+    },
+    {
+      "id": "dsc02859",
+      "set": "champions",
+      "alt": "Jugador junto al círculo central con el logo de la Champions League",
+      "w": 7008,
+      "h": 3944,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#39463e"
+    },
+    {
+      "id": "dsc02853",
+      "set": "champions",
+      "alt": "Jugador saluda a la grada antes del partido",
+      "w": 2471,
+      "h": 1765,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#3e3030"
+    },
+    {
+      "id": "dsc03056",
+      "set": "champions",
+      "alt": "Jugador con el 70 conduce el balón ante la grada",
+      "w": 2653,
+      "h": 1990,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#353f37"
+    },
+    {
+      "id": "dsc03256",
+      "set": "champions",
+      "alt": "Jugador con el 70 da indicaciones",
+      "w": 4526,
+      "h": 3394,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#314636"
+    },
+    {
+      "id": "dsc03313",
+      "set": "champions",
+      "alt": "Jugador de rojo golpea el balón en carrera",
+      "w": 5259,
+      "h": 3944,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#344637"
+    },
+    {
+      "id": "dsc03557",
+      "set": "champions",
+      "alt": "Uno contra uno en el centro del campo",
+      "w": 4139,
+      "h": 3104,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#35473a"
+    },
+    {
+      "id": "dsc03558",
+      "set": "champions",
+      "alt": "Uno contra uno, segundo instante",
+      "w": 3526,
+      "h": 2644,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#3a4a3b"
+    },
+    {
+      "id": "dsc03559",
+      "set": "champions",
+      "alt": "Regate ante la marca del defensa",
+      "w": 3841,
+      "h": 2881,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#38473b"
+    },
+    {
+      "id": "dsc03567",
+      "set": "champions",
+      "alt": "Conducción con el defensa encima",
+      "w": 4453,
+      "h": 3340,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#334336"
+    },
+    {
+      "id": "dsc03581",
+      "set": "champions",
+      "alt": "Carrera con el balón cosido al pie",
+      "w": 3463,
+      "h": 2597,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#5a3536"
+    },
+    {
+      "id": "dsc03749",
+      "set": "champions",
+      "alt": "Jugador de blanco controla frente a la valla publicitaria",
+      "w": 3838,
+      "h": 2878,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#4b5949"
+    },
+    {
+      "id": "dsc03750",
+      "set": "champions",
+      "alt": "Control orientado, segundo instante",
+      "w": 4194,
+      "h": 3145,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#354537"
+    },
+    {
+      "id": "dsc03766",
+      "set": "champions",
+      "alt": "Entrada del defensa de rojo",
+      "w": 3228,
+      "h": 2421,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#445040"
+    },
+    {
+      "id": "dsc03769",
+      "set": "champions",
+      "alt": "Disputa del balón bajo la grada",
+      "w": 3792,
+      "h": 2844,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#35453b"
+    },
+    {
+      "id": "dsc03803",
+      "set": "champions",
+      "alt": "Jugador de blanco espera el balón en la banda",
+      "w": 3627,
+      "h": 2720,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#42584e"
+    },
+    {
+      "id": "dsc03847",
+      "set": "champions",
+      "alt": "Jugada en el área con varios jugadores",
+      "w": 3877,
+      "h": 2908,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#4a5843"
+    },
+    {
+      "id": "dsc03868",
+      "set": "champions",
+      "alt": "Jugadores esperando un saque de esquina",
+      "w": 4223,
+      "h": 3167,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#645c53"
+    },
+    {
+      "id": "dsc03920",
+      "set": "champions",
+      "alt": "Contraataque por el centro",
+      "w": 4485,
+      "h": 3364,
+      "widths": [
+        480,
+        960,
+        1600,
+        2400
+      ],
+      "color": "#313f31"
+    },
+    {
+      "id": "dsc01527",
+      "set": "lpf",
+      "alt": "Jugador de celeste con el 11, de espaldas",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#243642"
+    },
+    {
+      "id": "dsc01349",
+      "set": "lpf",
+      "alt": "Banderín de córner de la Liga Panameña de Fútbol",
+      "w": 2200,
+      "h": 1238,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#5e543f"
+    },
+    {
+      "id": "dsc01370",
+      "set": "lpf",
+      "alt": "Ataque del equipo celeste ante la grada",
+      "w": 2200,
+      "h": 1238,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#525142"
+    },
+    {
+      "id": "dsc01571",
+      "set": "lpf",
+      "alt": "Jugador de celeste conduce en carrera",
+      "w": 2200,
+      "h": 1238,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#4b4f40"
+    },
+    {
+      "id": "dsc01636",
+      "set": "lpf",
+      "alt": "Jugador de celeste con el 8, de espaldas",
+      "w": 2200,
+      "h": 1238,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#3d4745"
+    },
+    {
+      "id": "dsc01495",
+      "set": "lpf",
+      "alt": "Transición del equipo celeste",
+      "w": 2200,
+      "h": 1238,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#61604a"
+    },
+    {
+      "id": "dsc01019",
+      "set": "lpf",
+      "alt": "Choque entre un jugador de celeste y uno de blanco",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#58574c"
+    },
+    {
+      "id": "dsc01107",
+      "set": "lpf",
+      "alt": "Jugador de blanco con el 70, de espaldas",
+      "w": 2200,
+      "h": 1441,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#555350"
+    },
+    {
+      "id": "dsc01259",
+      "set": "lpf",
+      "alt": "Balón en la esquina antes de un córner",
+      "w": 2200,
+      "h": 1238,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#585e47"
+    },
+    {
+      "id": "dsc01661",
+      "set": "lpf",
+      "alt": "Formación ante el marcador antes del saque inicial",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#895b4f"
+    },
+    {
+      "id": "dsc01714",
+      "set": "lpf",
+      "alt": "Jugador de verde conduce con la ciudad al fondo",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#7f7b75"
+    },
+    {
+      "id": "dsc01749",
+      "set": "lpf",
+      "alt": "Jugador de verde en carrera junto a la valla",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#655d54"
+    },
+    {
+      "id": "dsc01756",
+      "set": "lpf",
+      "alt": "Duelo en la frontal del área",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#545b56"
+    },
+    {
+      "id": "dsc01772",
+      "set": "lpf",
+      "alt": "Entrenador da indicaciones desde la banda",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#6e767f"
+    },
+    {
+      "id": "dsc01789",
+      "set": "lpf",
+      "alt": "Salto a por un balón aéreo",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#858585"
+    },
+    {
+      "id": "dsc01846",
+      "set": "lpf",
+      "alt": "Jugador de rojinegro estira la pierna hacia el balón",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#706562"
+    },
+    {
+      "id": "dsc01852",
+      "set": "lpf",
+      "alt": "Forcejeo espalda contra espalda",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#5b5751"
+    },
+    {
+      "id": "dsc01876",
+      "set": "lpf",
+      "alt": "Jugador de verde pide explicaciones",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#706562"
+    },
+    {
+      "id": "dsc01904",
+      "set": "lpf",
+      "alt": "Disputa en el lateral",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#635f5b"
+    },
+    {
+      "id": "dsc01924",
+      "set": "lpf",
+      "alt": "Entrada en el suelo",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#676055"
+    },
+    {
+      "id": "dsc01947",
+      "set": "lpf",
+      "alt": "Carrera por la banda bajo la grada",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#676055"
+    },
+    {
+      "id": "dsc01954",
+      "set": "lpf",
+      "alt": "Jugador de verde en la esquina del estadio",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#675b51"
+    },
+    {
+      "id": "dsc01975",
+      "set": "lpf",
+      "alt": "Uno contra uno en el centro del campo",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#58554b"
+    },
+    {
+      "id": "dsc02005",
+      "set": "lpf",
+      "alt": "Duelo ante la grada de la afición",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#5d584c"
+    },
+    {
+      "id": "dsc02058",
+      "set": "lpf",
+      "alt": "Acción en el área pequeña",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#595552"
+    },
+    {
+      "id": "dsc02118",
+      "set": "lpf",
+      "alt": "Jugador de verde con el 11 espera el balón",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#5d4e45"
+    },
+    {
+      "id": "dsc02161",
+      "set": "lpf",
+      "alt": "Presión en el medio campo",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#76655b"
+    },
+    {
+      "id": "dsc02192",
+      "set": "lpf",
+      "alt": "Jugadores tras una falta",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#6e6468"
+    },
+    {
+      "id": "dsc02276",
+      "set": "lpf",
+      "alt": "Entrenador grita desde la banda",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#69695e"
+    },
+    {
+      "id": "dsc02294",
+      "set": "lpf",
+      "alt": "Juego bajo los focos",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#4b4c44"
+    },
+    {
+      "id": "dsc02301",
+      "set": "lpf",
+      "alt": "Jugador tendido en el césped",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#5b5b59"
+    },
+    {
+      "id": "dsc02316",
+      "set": "lpf",
+      "alt": "Entrada a ras de suelo",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#605854"
+    },
+    {
+      "id": "dsc02323",
+      "set": "lpf",
+      "alt": "Llegada de varios jugadores al balón",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#675d59"
+    },
+    {
+      "id": "dsc02360",
+      "set": "lpf",
+      "alt": "Jugador de verde con el 18, de espaldas",
+      "w": 2200,
+      "h": 1650,
+      "widths": [
+        480,
+        960,
+        1600
+      ],
+      "color": "#404241"
+    }
+  ],
+  "films": [
+    {
+      "slug": "london",
+      "duration": 21,
+      "w": 1920,
+      "h": 1080,
+      "color": "#828172"
+    },
+    {
+      "slug": "paris",
+      "duration": 25.2,
+      "w": 1920,
+      "h": 1080,
+      "color": "#5b634a"
+    },
+    {
+      "slug": "belgium",
+      "duration": 21.8,
+      "w": 1920,
+      "h": 1080,
+      "color": "#676050"
+    },
+    {
+      "slug": "vienna",
+      "duration": 29.7,
+      "w": 1920,
+      "h": 1080,
+      "color": "#5d6d72"
+    },
+    {
+      "slug": "barcelona",
+      "duration": 31,
+      "w": 1920,
+      "h": 1080,
+      "color": "#766c66"
+    },
+    {
+      "slug": "hollywood-studios",
+      "duration": 67.2,
+      "w": 1920,
+      "h": 1080,
+      "color": "#6b6b58"
+    },
+    {
+      "slug": "panama",
+      "duration": 31.6,
+      "w": 1920,
+      "h": 756,
+      "color": "#4a4c48"
+    },
+    {
+      "slug": "panama-2",
+      "duration": 22.4,
+      "w": 1920,
+      "h": 1080,
+      "color": "#58584b"
+    },
+    {
+      "slug": "lisboa",
+      "duration": 45.1,
+      "w": 1920,
+      "h": 1080,
+      "color": "#59564f"
+    },
+    {
+      "slug": "valencia",
+      "duration": 20.2,
+      "w": 1920,
+      "h": 1080,
+      "color": "#56615b"
+    },
+    {
+      "slug": "sandia-bv",
+      "duration": 206.5,
+      "w": 1920,
+      "h": 1080,
+      "color": "#7a5f54"
+    },
+    {
+      "slug": "obsessed-with-you",
+      "duration": 121,
+      "w": 1920,
+      "h": 1080,
+      "color": "#25170b"
+    }
+  ]
+}
